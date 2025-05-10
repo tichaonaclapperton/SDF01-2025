@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Module_01_TICMUS25488_FTO2025_Group_B_Tichaona-Musasa_SDF01 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tichaona Clapperton Musasa
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -66,9 +66,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tichaonclapperton)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tichman-musasa-19920m4)  
+📧 Email: [clappertontee@gmail.com](clappertontee@gmail.com)
 
 ---
 
